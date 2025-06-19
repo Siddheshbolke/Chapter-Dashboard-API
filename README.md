@@ -38,4 +38,8 @@ This is a RESTful API backend for managing and monitoring academic chapter perfo
   - Uses Redis for distributed throttling
 
 ---
+npm run dev
+# or
+node server.js
+
 
